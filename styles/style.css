@@ -9,9 +9,12 @@ html {
 }
 
 .page {
+<<<<<<< HEAD
   display: flex;
   justify-content: center;
   align-items: center;
+=======
+>>>>>>> ed6eda02582a62fbc1af383b84608b2d6311ca72
   inline-size: 1200px;
   block-size: 100%;
   margin: auto;
@@ -40,6 +43,7 @@ ol {
   list-style: none;
 }
 
+<<<<<<< HEAD
 .visually-hidden {
   position: absolute;
   inline-size: 1px;
@@ -302,6 +306,8 @@ ol {
   object-position: center;
 }
 
+=======
+>>>>>>> ed6eda02582a62fbc1af383b84608b2d6311ca72
 /* Кастомный скроллбар */
 .custom-scrollbar::-webkit-scrollbar {
   width: 4px;
@@ -313,4 +319,8 @@ ol {
 
 .custom-scrollbar::-webkit-scrollbar-thumb {
   background-color: #D9D9D9;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ed6eda02582a62fbc1af383b84608b2d6311ca72
