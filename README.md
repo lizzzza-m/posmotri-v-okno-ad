@@ -1,1 +1,1 @@
-https://gitshub.com/lizzzza-m/posmotri-v-okno-ad
+https://gitshub.com/lizzzza-m/posmotri-v-okno-ad.git
